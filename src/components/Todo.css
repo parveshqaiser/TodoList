@@ -1,0 +1,20 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* the purpose of commenting out this file is that we use #table as internal css  */
+/* #table{
+    width: 500px;
+    margin: auto;
+    border-radius: 15px ;
+    background-color: rgb(233, 216, 233);
+    
+} */
+
+#header{
+    border-radius: 15px;
+    border: 2px solid red;
+}
