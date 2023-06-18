@@ -16,7 +16,6 @@ export function HeaderForToDoList()
     return(       
         <div className="bg-dark text-white m-2 p-2" id='header'>
             <h2 className="text-center" > Check List for Today , {dayNames[`${day}`]} - { `${date} / ${month+1} / ${year}`}</h2>
-            <h3>{}</h3>
         </div>
         
     )
